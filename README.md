@@ -52,4 +52,19 @@ http://ip-address-or-domain.com:5555
 
 ![scout_realtime status](shutter1.png)
  
+> By default, scout_realtime logs are written in .scout/scout_realtime.log on the system.
 
+```
+cat .scout/scout_realtime.log
+```
+
+> To stop the scout_realtime daemon, run the following command.
+
+```
+scout_realtime stop
+```
+> To uninstall scout_realtime from the system, run the following command.
+
+```
+gem uninstall scout_realtime
+```
