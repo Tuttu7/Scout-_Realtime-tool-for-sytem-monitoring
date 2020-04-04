@@ -50,6 +50,6 @@ OR
 http://ip-address-or-domain.com:5555 
 ```
 
-![scout_realtime status](shutter.png)
+![scout_realtime status](shutter1.png)
  
 
